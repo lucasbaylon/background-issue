@@ -1,0 +1,7 @@
+{
+  "name": "background-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
